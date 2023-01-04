@@ -1,7 +1,7 @@
 # *Kyle Griffith*
 ---
 
-<p> Computerz Kewl </p>
+## Computers Kewl 
 
 <p> I enjoy learning about scripting, front-end development, security and all things technological </p>
 

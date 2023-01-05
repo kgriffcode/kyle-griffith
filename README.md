@@ -14,4 +14,4 @@
 
 
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle-griffith&showicons=true&theme=dracula)](https://github.com/kyle-griffith/github-readme-stats)
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle-griffith&showicons=true&theme=dracula&count_private=true)](https://github.com/kyle-griffith/github-readme-stats)

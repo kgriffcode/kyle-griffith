@@ -2,7 +2,7 @@
 
 <p> I enjoy learning about scripting, front-end development, security and design systems </p>
 
-<p> Enjoy American football and <i>football<i/> -- I support Real Betis, Arsenal, São Paulo FC and Chivas
+<p> Enjoy American football and <i>football</i> -- I support Real Betis, Arsenal, São Paulo FC and Chivas
 
 <p> In my free time I enjoy playing guitar, traveling, and learning Spanish, Portugese and Darija </p>
 

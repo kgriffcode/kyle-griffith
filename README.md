@@ -1,12 +1,17 @@
 # *Kyle Griffith*
----
-
-## Computers Kewl 
 
 <p> I enjoy learning about scripting, front-end development, security and all things technological </p>
 
 <p> In my free time I enjoy playing guitar, traveling, and learning Spanish, Portugese and Darija </p>
 
-![SASS IMG](https://www.dropbox.com/s/49tnvm81u5qx6li/sass-logo.png?dl=0)
+---
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height="50" width="50" title="sass icon" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" width="50" title="javascript icon" />
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50" width="50" title="nodejs icon" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50" width="50" title="react icon" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="50" width="50" title="python icon" /> 
+</p>
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle-griffith&showicons=true)](https://github.com/kyle-griffith/github-readme-stats)
+
+
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle-griffith&showicons=true&theme=dracula)](https://github.com/kyle-griffith/github-readme-stats)

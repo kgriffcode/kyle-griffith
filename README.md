@@ -1,6 +1,6 @@
 # *Kyle Griffith*
 
-<p> I enjoy learning about scripting, front-end development, security and all things technological </p>
+<p> I enjoy learning about scripting, front-end development, security </p>
 
 <p> In my free time I enjoy playing guitar, traveling, and learning Spanish, Portugese and Darija </p>
 

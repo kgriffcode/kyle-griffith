@@ -1,6 +1,6 @@
 # *Kyle Griffith*
 
-<p> I enjoy learning about scripting, front-end development, security and design systems </p>
+<p> I enjoy learning about scripting, security practices, front-end development and design systems </p>
 
 <p> I am a passionate sports fan who allows the NFL, College Football, Premier League, la Liga, Primeira Liga and Liga MX to consume most of my entertainment needs <p>
   

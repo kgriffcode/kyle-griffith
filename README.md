@@ -11,7 +11,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="70" width="70" title="javascript icon" />
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="70" width="70" title="nodejs icon" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="70" width="70" title="react icon" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="70" width="70" title="python icon" /> 
-<img src="https://github.com/frostbitecms/design-system/blob/main/Assets/discord-logo-gradient.png?raw=true" height="70" width="70" title="nodejs icon" />
+<img src="https://raw.githubusercontent.com/frostbitecms/design-system/8626152a6c363f62bb49f04c78fc1befa5fd10b9/Assets/logos/gradient-logo.svg?token=AYO3VCZLD232QETLHJMZOQTDXHLAI" height="70" width="70" title="nodejs icon" />
 </p>
 
 <p align="left">

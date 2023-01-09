@@ -1,6 +1,6 @@
 # *Kyle-Parker Griffith*
 
-<p> I enjoy learning about scripting, security practices, front-end development and design systems </p>
+<p> I enjoy learning about scripting and security practices, digital marketing, analytics as well as front-end design and design systems </p>
 <p> I am a passionate sports fan who allows the NFL, College Football, Premier League, la Liga, Primeira Liga and Liga MX to consume most of my entertainment needs <p>
 <p> In my free time I enjoy playing guitar, traveling, studying anthropology / history as a whole -- as well as refining my Spanish, Portugese and Darija </p>
 

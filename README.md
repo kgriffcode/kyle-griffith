@@ -19,7 +19,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png" height="50" width="50" title="betis icon" />  
 <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png" height="50" width="50" title="betis icon" />
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Guadalajara_CD.svg/1200px-Guadalajara_CD.svg.png" height="50" width="50" title="betis icon" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/2054px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png" height="50" width="50" title="betis icon" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/2054px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png" height="50" width="50" title="sao paulo icon" />
 </p>
 
 [![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle-griffith&showicons=true&theme=dracula&count_private=true)](https://github.com/kyle-griffith/github-readme-stats)

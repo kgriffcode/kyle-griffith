@@ -22,4 +22,3 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/2054px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png" height="50" width="50" title="sao paulo icon" />
 </p>
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle-griffith&showicons=true&theme=dracula&count_private=true)](https://github.com/kyle-griffith/github-readme-stats)

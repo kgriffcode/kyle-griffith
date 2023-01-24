@@ -22,3 +22,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/2054px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png" height="50" width="50" title="sao paulo icon" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=kyle-griffith&show_icons=true&theme=tokyonight)
